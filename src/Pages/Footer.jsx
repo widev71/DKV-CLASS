@@ -40,7 +40,7 @@ const Footer = () => {
                     <h2 className="mb-4 text-sm font-semibold uppercase text-white">Sources Code</h2>
                             <ul className="text-gray-400 dark:text-gray-400 font-medium">
                                 <li className="mb-2">
-                                    <a href="https://github.com/widev71" className="hover:underline">
+                                    <a href="https://github.com/widev71/DKV-CLASS" className="hover:underline">
                                         Vist
                                     </a>
                                 </li>
