@@ -6,8 +6,7 @@ const BoxClassIg = () => {
 					<img src="/Instagram.svg" alt="" className="w-auto h-10" />
 					<img src="/next.png" alt="" className="h-4 w-4" />
 				</div>
-				<h1 className="text-white text-lg font-semibold pr-1 mt-3 absolute bottom-7">
-					Instagram
+					<h1 className="capitalize text-white text-left pr-5 text-base font-semibold  mt-5">Text Anonim
 				</h1>
 			</a>
 		</div>
