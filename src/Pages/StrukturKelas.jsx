@@ -196,7 +196,7 @@ const StrukturKelas = () => {
 					data-aos-duration="1100">
 					<div className="flex-col">
 						<BorderStruktur Jabatan="MEMBER" Nama="GUNGDE" Width="120px" />
-						<BorderStruktur Jabatan="" Nama="ARY SURYA TARUNA KUSUMA" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="ARY SURYA" Width="120px" />
 						<BorderStruktur Jabatan="" Nama="DEDI PERDANA" Width="120px" />
 					</div>
 
