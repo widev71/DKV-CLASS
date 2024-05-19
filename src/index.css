@@ -257,6 +257,11 @@ body {
 	backdrop-filter: blur(6.9px);
 	-webkit-backdrop-filter: blur(6.9px);
 	border: 1px solid rgba(255, 255, 255, 0.09);
+	width: 100px; /* Set a fixed width */
+	height: 55px; /* Set a fixed height */
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 #LayoutIsiButtonRequest {
