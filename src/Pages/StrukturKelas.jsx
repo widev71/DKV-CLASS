@@ -201,13 +201,13 @@ const StrukturKelas = () => {
 					</div>
 
 					<div className="flex-col lg:hidden lg: flex">
-						<BorderStruktur Jabatan="MEMBER" Nama="PRADANA WINATA" Width="120px" />
+						<BorderStruktur Jabatan="MEMBER" Nama="PRADANA" Width="120px" />
 						<BorderStruktur Jabatan="" Nama="BAYU SADEWA" Width="120px" />
 						<BorderStruktur Jabatan="" Nama="DWIKA YANA" Width="120px" />
 					</div>
 
 					<div className="flex-col hidden lg:flex">
-						<BorderStruktur Jabatan="MEMBER" Nama="PRADANA WINATA" Width="120px" />
+						<BorderStruktur Jabatan="MEMBER" Nama="PRADANA" Width="120px" />
 						<BorderStruktur Jabatan="" Nama="BAYU SADEWA" Width="120px" />
 						<BorderStruktur Jabatan="" Nama="DWIKA YANA" Width="120px" />
 						<div className="py-[0%]"></div>
