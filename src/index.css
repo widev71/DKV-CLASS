@@ -79,7 +79,7 @@ body {
 		rgba(224, 107, 213, 0.8520658263305322) 0%,
 		rgba(75, 57, 198, 0.9052871148459384) 100%
 	  ),
-	  url("../public/Images/background1.jpg");
+	  url("/Images/background1.jpg");
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-position: top;
@@ -475,7 +475,7 @@ input:focus {
 	}
 }
 
-/* #BoxGallery {
+ #BoxGallery {
 	padding: 10%;
 	height: auto;
 	width: 100%;
@@ -490,4 +490,4 @@ input:focus {
 
 	background-image: radial-gradient(at 80% 100%, hsla(282, 97%, 43%, 0) 0px, transparent 50%),
 		radial-gradient(at 0% 0%, #ff4359 0px, transparent 60%);
-} */
+} 

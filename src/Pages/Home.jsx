@@ -4,9 +4,9 @@ import BoxTextAnonim from "../components/BoxTextAnonim";
 import Navbar from "../components/Navbar";
 
 const backgrounds = [
-  "url('../public/Images/background1.jpg')",
-  "url('../public/Images/background2.jpg')",
-  "url('../public/Images/background3.jpg')"
+  "url('/Images/background1.jpg')",
+  "url('/Images/background2.jpg')",
+  "url('/Images/background3.jpg')"
 ];
 
 let currentIndex = 0;
@@ -23,7 +23,7 @@ const Home = () => {
   useEffect(() => {
     // Initial background set
     changeBackground();
-    // Change background every minute (60000 milliseconds)
+    // Change background every minute (6000 milliseconds)
     const intervalId = setInterval(changeBackground, 6000);
 
     // Cleanup interval on component unmount
