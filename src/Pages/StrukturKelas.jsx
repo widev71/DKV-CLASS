@@ -66,7 +66,7 @@ const StrukturKelas = () => {
 				{/* wakil dan ketua */}
 				<div className="flex relative top-[-3rem]" data-aos="fade-up" data-aos-duration="1200">
 					<div className="relative left-[0.2rem]">
-						<BorderStruktur Jabatan="KETUA" Nama="NIK WIRYA" Width="120px" />
+						<BorderStruktur Jabatan="KETUA" Nama="NIK WIRYA DINATA" Width="120px" />
 					</div>
 					<img src="LineHorizontalPendek.svg" className="relative top-3" />
 					<img src="LineHorizontalPendek.svg" className="relative top-3 hidden lg:flex" />
@@ -129,7 +129,7 @@ const StrukturKelas = () => {
 					data-aos-duration="1200">
 
 					<div className="flex-col">
-						<BorderStruktur Jabatan="SEKERTARIS" Nama="SATRIA WIBAWA" Width="120px" />
+						<BorderStruktur Jabatan="SEKERTARIS" Nama=" KETUT SATRIA WIBAWA" Width="120px" />
 					</div>
 
 					<div className="flex-col">
@@ -195,8 +195,8 @@ const StrukturKelas = () => {
 					data-aos="fade-up"
 					data-aos-duration="1100">
 					<div className="flex-col">
-						<BorderStruktur Jabatan="" Nama="GUNGDE" Width="120px" />
-						<BorderStruktur Jabatan="" Nama="ARY SURYA" Width="120px" />
+						<BorderStruktur Jabatan="MEMBER" Nama="GUNGDE" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="ARY SURYA TARUNA KUSUMA" Width="120px" />
 						<BorderStruktur Jabatan="" Nama="DEDI PERDANA" Width="120px" />
 					</div>
 
