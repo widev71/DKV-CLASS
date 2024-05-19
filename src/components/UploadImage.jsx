@@ -15,7 +15,7 @@ function UploadImage() {
   }, []);
 
   const listImages = () => {
-    const imageListRef = ref(storage, "images/");
+    const imageListRef = ref(storage, "GambarAman/");
     listAll(imageListRef)
       .then((response) => {
         const imagePromises = response.items.map((item) => getDownloadURL(item));
