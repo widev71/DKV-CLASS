@@ -6,13 +6,13 @@ import { getFirestore } from "firebase/firestore"
 import {getAuth, GoogleAuthProvider} from 'firebase/auth'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC_91x8Q6f1l7COAbGgQO8BwElbEBN6Vrk",
-  authDomain: "xi-dkv.firebaseapp.com",
-  projectId: "xi-dkv",
-  storageBucket: "xi-dkv.appspot.com",
-  messagingSenderId: "630354977430",
-  appId: "1:630354977430:web:5d7553c97390fe56e358b7",
-  measurementId: "G-TV32K9M01S"
+  apiKey: "AIzaSyDaZGFr2ncYlf-evyTWGmfhYuv1XevKo9g",
+  authDomain: "dkv-class.firebaseapp.com",
+  projectId: "dkv-class",
+  storageBucket: "dkv-class.appspot.com",
+  messagingSenderId: "829314916015",
+  appId: "1:829314916015:web:068bb08bd72ff146dc7e5a",
+  measurementId: "G-EYGM1R0NW6"
 };
 
 // Initialize Firebase
