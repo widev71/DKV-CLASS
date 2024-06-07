@@ -34,7 +34,7 @@ const Home = () => {
     <div className="text-white px-[10%]" id="Home">
       <Navbar />
       <div className="lg:hidden">
-        <div className="font-bold text-5xl text-center py-20 ">XI DKV</div>
+        <div className="font-bold text-5xl text-center py-20 ">XII DKV</div>
         <div
           className="border-2 flex justify-between px-10 text-4xl font-bold py-2 relative"
           id="TotalSiswa">
@@ -72,7 +72,7 @@ const Home = () => {
             WELCOME
           </h1>
           <h6 className="text-sm" style={{ letterSpacing: "5px" }}>
-            TO XI DKV
+            TO XII DKV
           </h6>
         </div>
       </div>
